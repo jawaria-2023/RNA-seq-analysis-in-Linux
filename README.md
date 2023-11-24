@@ -1,4 +1,4 @@
-# RNA-seq-analysis-in-Linux
+# RNA-seq-analysis-in-Linux for Beignners
 RNA sequencing (RNA-seq) is an advanced biological assay used for studying the transcriptome, particularly useful in the analysis of gene expression within organisms like rice. 
 RNA sequencing (RNA-seq) is a technique used by scientists to study what genes are being turned on or off in a cell at any given moment, which is especially useful for understanding how crops like rice grow and respond to the environment. To do this analysis on a computer running Linux, researchers follow a step-by-step procedure using different software tools, which are like specialized programs. Here's a simple explanation of each step in the process:
 
